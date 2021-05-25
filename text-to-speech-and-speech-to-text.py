@@ -1,3 +1,5 @@
+# coded by Sanketh J
+
 import pyttsx3
 import argparse
 import speech_recognition as sr
